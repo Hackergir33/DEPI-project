@@ -48,7 +48,15 @@ This project simulates a phishing campaign aimed at testing the security awarene
 
 ## 👥 Team Members
 
-- 
+- Aya Mosaad Mohammed Elbaz
+mahmoud mosbah ali abbas 
+Mahmoud Galal Moneer Mahmoud 
+Mohamed Ahmed Mohamed Mohaseb
+Mohamed Magdy Elmaghawry Abdelatef
+ahmed ali mostafa Mohamed hassan
+Youssef Mohamed Rabie AbdelWahab
+![image](https://github.com/user-attachments/assets/a77cbbce-23a2-4072-a715-159875b73b76)
+
 ---
 
 ## 🏁 Project Status
