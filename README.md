@@ -65,9 +65,6 @@ Youssef Mohamed Rabie AbdelWahab
 
 ---
 
-## 📸 Screenshots
-
-> *(Optional) Add screenshots or visuals from the presentation or simulated email content here.*
 
 ---
 
